@@ -1,0 +1,148 @@
++jetpack - No description available
+-jetpack - No description available
+amp - Select 2nd engineer's building
+amp_help - Show info about Amplifier
+amplifier - Select 2nd engineer's building
+em - Shows the model manager menu
+equip - Shows the model manager menu
+equipmodels - Shows the model manager menu
+ff - No description available
+ff2 - No description available
+ff2_boss - Allows players to select their boss
+ff2_classinfo - No description available
+ff2_hp - No description available
+ff2_music - No description available
+ff2_new - No description available
+ff2_next - No description available
+ff2_resetpoints - No description available
+ff2_special - Usage:  ff2_special <boss>.  Forces next round to use that boss
+ff2_toggle - Allows players to enable/disable being in the boss queue
+ff2_voice - No description available
+ff2boss - Allows players to select their boss
+ff2classinfo - No description available
+ff2dmg - ff2dmg - Enable/disable the damage tracker.
+ff2hp - No description available
+ff2music - No description available
+ff2new - No description available
+ff2next - No description available
+ff2resetpoints - No description available
+ff2toggle - Allows players to enable/disable being in the boss queue
+ff2voice - No description available
+fp - Usage: sm_firstperson
+gameme_browse - No description available
+gameme_csay - No description available
+gameme_hint - No description available
+gameme_khint - No description available
+gameme_message_prefix_clear - No description available
+gameme_msay - No description available
+gameme_player_action - No description available
+gameme_psay - No description available
+gameme_raw_message - No description available
+gameme_redirect - No description available
+gameme_swap - No description available
+gameme_team_action - No description available
+gameme_tsay - No description available
+gameme_world_action - No description available
+goomba_off - Disable stomp.
+goomba_on - Enable stomp.
+goomba_status - Give the current goomba immunity setting.
+hale - No description available
+hale_boss - Allows players to select their boss
+hale_boss - Allows players to select their boss
+hale_classinfo - No description available
+hale_hp - No description available
+hale_music - No description available
+hale_new - No description available
+hale_next - No description available
+hale_resetpoints - No description available
+hale_toggle - Allows players to enable/disable being in the boss queue
+hale_voice - No description available
+haleboss - Allows players to select their boss
+haledmg - haledmg - Enable/disable the damage tracker.
+halehp - No description available
+halemusic - No description available
+halenew - No description available
+halenext - No description available
+haleresetpoints - No description available
+haletoggle - Allows players to enable/disable being in the boss queue
+halevoice - No description available
+listmaps - No description available
+mm - Shows the model manager menu
+mm - Shows the model manager menu
+motd - No description available
+nextmap - No description available
+sm_advertisements_reload - Reload the advertisements
+sm_australium - No description available
+sm_bet - No description available
+sm_browse - No description available
+sm_buildingcolors - No description available
+sm_buildinghats - No description available
+sm_colorize_colors - displays colors available to sm_colorize and sm_colorme
+sm_colors - No description available
+sm_cookies - sm_cookies <name> [value]
+sm_credits - No description available
+sm_drop - No description available
+sm_dsp - No description available
+sm_explarrowsme - Turn on explosive arrows for yourself.
+sm_firstperson - Usage: sm_firstperson
+sm_footsteps - No description available
+sm_fp - No description available
+sm_gift - No description available
+sm_gift - No description available
+sm_givecredits - No description available
+sm_help - Displays SourceMod commands and descriptions
+sm_inv - No description available
+sm_inventory - No description available
+sm_irs_kicklist_reload - Reloads the kick list.
+sm_ks - Set your killstreak.
+sm_me - Outputs a 'me' action to chat
+sm_mirror - Toggle Rotational Thirdperson view
+sm_music - No description available
+sm_musicstop - No description available
+sm_musicto - No description available
+sm_musicyt - No description available
+sm_nominate - No description available
+sm_offer - No description available
+sm_particles - Toggles a client's projectile particles on/off
+sm_pong - Start a new Pong game.
+sm_pquit - Surrender from your current pong game.
+sm_radio - No description available
+sm_radiooff - No description available
+sm_rerollhat - No description available
+sm_resetplayer - No description available
+sm_resizemyhands - Toggles a client's hand size.
+sm_resizemyhead - Toggles a client's head size.
+sm_resizemytorso - Toggles a client's torso size.
+sm_resizeresetme - Resets a client's size.
+sm_revote - No description available
+sm_rocketme -  a fun way to suicide
+sm_rtv - No description available
+sm_searchcmd - Searches SourceMod commands
+sm_searchcmd - Searches SourceMod commands
+sm_settings - No description available
+sm_shop - No description available
+sm_snake - Start a snake minigame session.
+sm_store - No description available
+sm_store_custom_credits - No description available
+sm_taunt - Taunt Menu
+sm_taunts - Taunt Menu
+sm_tetris - Opens the tetris minigame.
+sm_thirdperson - Usage: sm_thirdperson
+sm_tp - No description available
+sm_trade - No description available
+sm_vip - Display the vip menu.
+sm_voicefx - No description available
+sm_votemute - sm_votemute <player>
+sm_voteslay - sm_voteslay <player>
+sm_yt - No description available
+sm_yt_full - No description available
+sm_yt_stop - No description available
+sm_yt_to - No description available
+tauntcrits_help - No description available
+tauntcrits_info - No description available
+tf2items_disable - No description available
+tf2items_enable - No description available
+tf_models - Shows the model manager menu
+timeleft - No description available
+tp - Usage: sm_thirdperson
+voicemenu - No description available
