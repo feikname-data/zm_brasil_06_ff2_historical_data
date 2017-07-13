@@ -1,24 +1,21 @@
  "AFK Manager" (3.4.3) by Rothgar
- "Admin File Reader" (1.8.0.5967) by AlliedModders LLC
- "Admin Help" (1.8.0.5967) by AlliedModders LLC
- "Admin Menu" (1.8.0.5967) by AlliedModders LLC
+ "AFK Manager" (4.0.5) by Rothgar
+ "Admin File Reader" (1.8.0.6014) by AlliedModders LLC
+ "Admin Help" (1.8.0.6014) by AlliedModders LLC
+ "Admin Menu" (1.8.0.6014) by AlliedModders LLC
  "Advertisements" (0.6) by Tsunami
- "Anti-Flood" (1.8.0.5967) by AlliedModders LLC
+ "Anti-Flood" (1.8.0.6014) by AlliedModders LLC
  "AutoRestart" (1.4) by MikeJS and modified by SHARIVAN from ZMBR Clan
  "Banned Sprays" (0.0.3.8) by TnTSCS aka ClarkKent
- "Basic Chat" (1.8.0.5967) by AlliedModders LLC
- "Basic Comm Control" (1.8.0.5967) by AlliedModders LLC
- "Basic Commands" (1.8.0.5967) by AlliedModders LLC
- "Basic Info Triggers" (1.8.0.5967) by AlliedModders LLC
- "Basic Votes" (1.8.0.5967) by AlliedModders LLC
+ "Basic Chat" (1.8.0.6014) by AlliedModders LLC
+ "Basic Comm Control" (1.8.0.6014) by AlliedModders LLC
+ "Basic Commands" (1.8.0.6014) by AlliedModders LLC
+ "Basic Info Triggers" (1.8.0.6014) by AlliedModders LLC
+ "Basic Votes" (1.8.0.6014) by AlliedModders LLC
  "Change Team Fix" (1.0) by Friagram
- "Client Preferences" (1.8.0.5967) by AlliedModders LLC
+ "Client Preferences" (1.8.0.6014) by AlliedModders LLC
  "Default Map Changer" (2.5) by TigerOx
  "Efeito Unusual ZMBRASIL" (1.0) by ZMBR SOUL
- "Evil Admin - Health" (1.0.104) by <eVa>Dog
- "Evil Admin - Pimp Slap" (1.0.102) by <eVa>Dog
- "Evil Admin - Rocket" (1.0.110) by <eVa>Dog
- "Evil Admin - Vision" (1.0.106) by <eVa>Dog
  "FF2 Ability: Customazible Clipless Weapons" by M7
  "FF2 Highlander Rage" by Blinx + Otokiru
  "FF2 Package - Mokou + Radigan Conagher" by EP
@@ -30,7 +27,6 @@
  "Freak Fortress 2: Bloodriders Subplugin" by M7
  "Freak Fortress 2: Bombinomicon" (1.0) by Deathreus
  "Freak Fortress 2: Boss Item Pickup" (1.0) by Friagram
- "Freak Fortress 2: Boss Preferences" (1.04) by SHADoW NiNE TR3S (Base code from RainBolt Dash, Powerlord and frog)
  "Freak Fortress 2: Boss Selection" (1.10) by RainBolt Dash, Powerlord, SHADoW NiNE TR3S
  "Freak Fortress 2: Boss Toggle" (1.0.1) by frog
  "Freak Fortress 2: Boss Tweaks" (1.0) by frog
@@ -68,7 +64,6 @@
  "Freak Fortress 2: Replace Projectile" (1.0.2) by frog, friagram
  "Freak Fortress 2: Rock Ability" (1.2) by Deathreus, coding snippets from Darthmule, Flamin Sarge, and Otokiru
  "Freak Fortress 2: SHADoW93's Abilities Pack" (1.18) by SHADoW NiNE TR3S
- "Freak Fortress 2: SHADoW93's Boss Abilities" (1.07) by SHADoW NiNE TR3S
  "Freak Fortress 2: Saxtoner Ability Pack" (1.6.6) by Otokiru, updated by SHADow93
  "Freak Fortress 2: Server Wide Rage Sound" (1.2) by Deathreus
  "Freak Fortress 2: ServerCommandRage" (1.1) by frog
@@ -85,8 +80,8 @@
  "Freak Fortress 2: special_noanims" (1.9.2) by RainBolt Dash
  "Freedom Abilities" (1.0.0) by WildCard65
  "Fun Commands X" (2.4) by Spazman0 and Arg!
- "Fun Commands" (1.8.0.5967) by AlliedModders LLC
- "Fun Votes" (1.8.0.5967) by AlliedModders LLC
+ "Fun Commands" (1.8.0.6014) by AlliedModders LLC
+ "Fun Votes" (1.8.0.6014) by AlliedModders LLC
  "Goomba Stomp Core" (2.0.2) by Flyflo
  "Goomba Stomp TF2" (1.1.0) by Flyflo
  "Halloween Boss Player Kill Block" (1.1.0) by ReFlexPoison
@@ -101,13 +96,12 @@
  "Misc Stuff" (1.0) by M7
  "NativeVotes Basic Commands" (1.0) by Powerlord and AlliedModders LLC
  "NativeVotes" (0.8.3) by Powerlord
- "Nextmap" (1.8.0.5967) by AlliedModders LLC
+ "Nextmap" (1.8.0.6014) by AlliedModders LLC
  "Nightmare Sniper's Ability" by M7
  "PermaMute" (0.1) by Ryan "FLOOR_MASTER" Mannion
- "Player Commands" (1.8.0.5967) by AlliedModders LLC
- "Player Trails" (3.0.2) by Twisted|Panda
+ "Player Commands" (1.8.0.6014) by AlliedModders LLC
  "Projectile Particles" (1.1.0) by 11530
- "Pyro Taunt Street Fighter" (1.2) by TonyBaretta
+ "REGEX word filter" (1.2) by Twilight Suzuka
  "Resize Players" (1.5.1) by 11530
  "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
  "SM File/Folder Downloader and Precacher" (1.4) by SWAT_88
@@ -119,18 +113,18 @@
  "SMAC Rcon Locker" (0.8.6.0) by SMAC Development Team
  "Simple Chat Processor (Redux)" (1.1.5) by Simple Plugins, Mini
  "Simple YouTube Music Player" (1.2.3) by namazso
- "Sound Commands" (1.8.0.5967) by AlliedModders LLC
+ "Sound Commands" (1.8.0.6014) by AlliedModders LLC
  "SourceBans" (2.0.0-dev) by GameConnect
  "SourceBans: Admins" (2.0.0-dev) by GameConnect
  "SourceBans: Bans" (2.0.0-dev) by GameConnect
  "SourceMod Anti-Cheat" (0.8.6.0) by SMAC Development Team
  "Spray Tracer" (5.8a) by Nican132, CptMoore, Lebson506th
  "TF2 Class Restrictions" (0.6) by Tsunami
- "TF2 Set Speed" (1.3.1) by Tylerst
  "TF2: Roll the Dice" (0.4.4.2) by linux_lover (abkowald@gmail.com)
  "Taunt Crits" (2.1) by HeMe3iC
  "The Amplifier" (2.4) by RainBolt Dash (plugin); Jumento M.D. (idea & model); Naris and FlaminSarge (helpers)
  "Thirdperson | Mirrow Mode" (1.11) by Zephyrus
+ "Thriller" (0.2) by linux_lover
  "Tidy Chat" (0.5) by linux_lover
  "Updater" (1.2.2) by GoD-Tony
  "Vote Mute/Vote Silence" (1.0.105) by <eVa>Dog/AlliedModders LLC
@@ -139,16 +133,13 @@
  "[ANY] Zephyrus Gift Grab - Test Plugin" (1.0) by Zephyrus
  "[Gifts] Test" (1.0) by FrozDark (HLModders LLC)
  "[Source 2013] Custom Chat Colors" (3.1.0) by Dr. McKay
- "[TF2Items] Give Weapon" (3.14159) by FlaminSarge (orig by asherkin)
  "[TF2Items] Manager" (1.4.1) by Damizean & Asherkin
  "[TF2] Building Hats" (1.8) by Pelipoika
  "[TF2] Colored Engineer Buildings" (1.1) by Oshizu
  "[TF2] DSP Effects" (1.1) by A.I, Hurp Durp
- "[TF2] Explosive Arrows" (1.31) by Tak (Chaosxk)
  "[TF2] Fake Item Messages" (1.5.0) by DarthNinja
  "[TF2] Halloween Footprints" (1.0) by Oshizu
  "[TF2] Model Manager" (1.0.4) by FlaminSarge (based on Damizean's TF2 Equipment Manager)
- "[TF2] Pyro Airblast Jump" (1.2.2) by Leonardo
  "[TF2] TF2Attributes" (1.1.1) by FlaminSarge
  "[TF2] Taunt Menu" (1.07) by FlaminSarge, Nighty, xCoderx, Crow
  "[Tf2] Third Person Cookies!" (1.3.5) by Friagram
