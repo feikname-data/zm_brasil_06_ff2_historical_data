@@ -104,11 +104,10 @@ sm_musicyt - No description available
 sm_nominate - No description available
 sm_offer - No description available
 sm_particles - Toggles a client's projectile particles on/off
-sm_pong - Start a new Pong game.
-sm_pquit - Surrender from your current pong game.
 sm_radio - No description available
 sm_radiooff - No description available
 sm_rerollhat - No description available
+sm_resetplayer - No description available
 sm_resetplayer - No description available
 sm_resizemyhands - Toggles a client's hand size.
 sm_resizemyhead - Toggles a client's head size.
@@ -118,20 +117,17 @@ sm_revote - No description available
 sm_rocketme -  a fun way to suicide
 sm_rtv - No description available
 sm_searchcmd - Searches SourceMod commands
-sm_searchcmd - Searches SourceMod commands
 sm_settings - No description available
-sm_shop - No description available
-sm_snake - Start a snake minigame session.
 sm_store - No description available
 sm_store_custom_credits - No description available
 sm_taunt - Taunt Menu
 sm_taunts - Taunt Menu
-sm_tetris - Opens the tetris minigame.
 sm_thirdperson - Usage: sm_thirdperson
 sm_tp - No description available
 sm_trade - No description available
 sm_vip - Display the vip menu.
 sm_voicefx - No description available
+sm_votemute - sm_votemute <player>
 sm_votemute - sm_votemute <player>
 sm_voteslay - sm_voteslay <player>
 sm_yt - No description available
