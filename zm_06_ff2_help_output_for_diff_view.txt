@@ -8,14 +8,12 @@ equip - Shows the model manager menu
 equipmodels - Shows the model manager menu
 ff - No description available
 ff2 - No description available
-ff2_boss - Set my boss
 ff2_classinfo - No description available
 ff2_hp - No description available
 ff2_music - No description available
 ff2_new - No description available
 ff2_next - No description available
 ff2_resetpoints - No description available
-ff2_special - Usage:  ff2_special <boss>.  Forces next round to use that boss
 ff2_voice - No description available
 ff2boss - Set my boss
 ff2classinfo - No description available
@@ -46,7 +44,6 @@ goomba_off - Disable stomp.
 goomba_on - Enable stomp.
 goomba_status - Give the current goomba immunity setting.
 hale - No description available
-hale_boss - Set my boss
 hale_classinfo - No description available
 hale_hp - No description available
 hale_music - No description available
@@ -68,20 +65,20 @@ mm - Shows the model manager menu
 motd - No description available
 nextmap - No description available
 sm_advertisements_reload - Reload the advertisements
-sm_advertisements_reload - Reload the advertisements
-sm_australium - No description available
 sm_bet - No description available
 sm_browse - No description available
-sm_buildingcolors - No description available
+sm_build - Building menu
 sm_buildinghats - No description available
+sm_canteen - Canteen charges menu
 sm_colorize_colors - displays colors available to sm_colorize and sm_colorme
-sm_colorme - sm_colorme <color> - colorize yourself
-sm_colors - No description available
 sm_cookies - sm_cookies <name> [value]
+sm_credits - No description available
 sm_drop - No description available
 sm_dsp - No description available
+sm_effect - Spells and Canteen charges menu
+sm_effects - Spells and Canteen charges menu
 sm_firstperson - Usage: sm_firstperson
-sm_footsteps - No description available
+sm_firstperson - Usage: sm_firstperson
 sm_fp - No description available
 sm_gift - No description available
 sm_givecredits - No description available
@@ -91,43 +88,36 @@ sm_inventory - No description available
 sm_irs_kicklist_reload - Reloads the kick list.
 sm_ks - Set your killstreak.
 sm_me - Outputs a 'me' action to chat
-sm_mirror - Toggle Rotational Thirdperson view
 sm_music - No description available
 sm_musicfull - No description available
 sm_musicstop - No description available
 sm_musicto - No description available
 sm_musicyt - No description available
 sm_nominate - No description available
-sm_nominate - No description available
 sm_offer - No description available
 sm_particles - Toggles a client's projectile particles on/off
-sm_radio - No description available
 sm_radiooff - No description available
 sm_rerollhat - No description available
+sm_rerollhat - No description available
 sm_resetplayer - No description available
-sm_resizemyhands - Toggles a client's hand size.
-sm_resizemyhead - Toggles a client's head size.
-sm_resizemytorso - Toggles a client's torso size.
-sm_resizeresetme - Resets a client's size.
 sm_revote - No description available
 sm_rtv - No description available
 sm_searchcmd - Searches SourceMod commands
 sm_settings - No description available
 sm_shop - No description available
+sm_spell - Spells menu
+sm_spells - Spells menu
 sm_store - No description available
-sm_store_custom_credits - No description available
-sm_taunt - Taunt Menu
-sm_taunts - Taunt Menu
 sm_thirdperson - Usage: sm_thirdperson
 sm_tp - No description available
 sm_trade - No description available
 sm_vip - Display the vip menu.
 sm_voicefx - No description available
-sm_votemute - sm_votemute <player>
-sm_voteslay - sm_voteslay <player>
 sm_yt - No description available
 sm_yt_full - No description available
 sm_yt_stop - No description available
+sm_yt_to - No description available
+tauntcrits_help - No description available
 tauntcrits_help - No description available
 tauntcrits_info - No description available
 tf2items_disable - No description available
