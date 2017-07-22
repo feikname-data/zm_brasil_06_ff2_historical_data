@@ -1,4 +1,3 @@
- "AFK Manager" (3.4.3) by Rothgar
  "AFK Manager" (4.0.5) by Rothgar
  "Admin File Reader" (1.8.0.6014) by AlliedModders LLC
  "Admin Help" (1.8.0.6014) by AlliedModders LLC
@@ -100,8 +99,9 @@
  "Nightmare Sniper's Ability" by M7
  "PermaMute" (0.1) by Ryan "FLOOR_MASTER" Mannion
  "Player Commands" (1.8.0.6014) by AlliedModders LLC
+ "Player Respawn" (1.4) by Rogue
+ "Player Trails" (3.0.2) by Twisted|Panda
  "Projectile Particles" (1.1.0) by 11530
- "REGEX word filter" (1.2) by Twilight Suzuka
  "Resize Players" (1.5.1) by 11530
  "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
  "SM File/Folder Downloader and Precacher" (1.4) by SWAT_88
@@ -137,9 +137,12 @@
  "[TF2] Building Hats" (1.8) by Pelipoika
  "[TF2] Colored Engineer Buildings" (1.1) by Oshizu
  "[TF2] DSP Effects" (1.1) by A.I, Hurp Durp
+ "[TF2] Effects" (2.1.2) by avi9526. See source code for more details
+ "[TF2] Explosive Arrows" (1.31) by Tak (Chaosxk)
  "[TF2] Fake Item Messages" (1.5.0) by DarthNinja
  "[TF2] Halloween Footprints" (1.0) by Oshizu
  "[TF2] Model Manager" (1.0.4) by FlaminSarge (based on Damizean's TF2 Equipment Manager)
+ "[TF2] Pyro Airblast Jump" (1.2.2) by Leonardo
  "[TF2] TF2Attributes" (1.1.1) by FlaminSarge
  "[TF2] Taunt Menu" (1.07) by FlaminSarge, Nighty, xCoderx, Crow
  "[Tf2] Third Person Cookies!" (1.3.5) by Friagram
