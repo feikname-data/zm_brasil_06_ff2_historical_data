@@ -6,7 +6,7 @@ Fortress 2 server.
 how the server has been changing over time.
 
 ## Directory structure
-  I collect the "sm", "sm_help" (all pages) and "sm plugins" (all pages) commands
+  I collect the `sm`, `sm_help` (all pages), and `sm plugins` (all pages) commands
 console output and put each one in a different file formatted as `zm_06_ff2_COMMANDTYPE_DAY_MONTH_YEAR.txt`
 (e.g. `zm_06_ff2_help_output_20_05_2017.txt`) inside the `gathered_data` folder.
 
@@ -16,12 +16,12 @@ console output and put each one in a different file formatted as `zm_06_ff2_COMM
  * `YEAR` Year number (in [Common Era](https://en.wikipedia.org/wiki/Common_Era)), with 4 digits.
 
   You may view the data separately by browsing the `gathered_data` directory or 
-you may browse the [`zm_06_ff2_help_output_for_diff_view.txt` history](https://github.com/feikname/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_help_output_for_diff_view.txt)
-and the [`zm_06_ff2_plugins_for_diff_view.txt` history](https://github.com/feikname/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_plugins_for_diff_view.txt)
+you may browse the [`zm_06_ff2_help_output_for_diff_view.txt` history](https://github.com/feikname-data/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_help_output_for_diff_view.txt)
+and the [`zm_06_ff2_plugins_for_diff_view.txt` history](https://github.com/feikname-data/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_plugins_for_diff_view.txt)
 for a convenient diff view.
 
 ## How is the data updated?
-  The data is updated by me joining the server, typing the `sm`, `sm_help` and 
+  The data is updated by me joining the server, typing the `sm`, `sm_help`, and 
 `sm plugins` commands into the console and then sorting the output of each command
 into files inside the `gathered_data` directory.
 
