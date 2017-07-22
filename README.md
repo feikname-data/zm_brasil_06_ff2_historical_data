@@ -10,7 +10,7 @@ how the server has been changing over time.
 console output and put each one in a different file formatted as `zm_06_ff2_COMMANDTYPE_DAY_MONTH_YEAR.txt`
 (e.g. `zm_06_ff2_help_output_20_05_2017.txt`) inside the `gathered_data` folder.
 
- * `COMMANDTYPE` field may be `plugins`, `help_output`, or `sm_output.
+ * `COMMANDTYPE` field may be `plugins`, `help_output`, or `sm_output`.
  * `DAY`: Day of the month with, 2 digits and leading zeroes if necessary.
  * `MONTH` Month of the year, with 2 digits and leading zeroes if necessary.
  * `YEAR` Year number (in [Common Era](https://en.wikipedia.org/wiki/Common_Era)), with 4 digits.
@@ -21,7 +21,7 @@ and the [`zm_06_ff2_plugins_for_diff_view.txt` history](https://github.com/feikn
 for a convenient diff view.
 
 ## How is the data updated?
-  The data is updated by me joining the server, typing the `sm, `sm_help` and 
+  The data is updated by me joining the server, typing the `sm`, `sm_help` and 
 `sm plugins` commands into the console and then sorting the output of each command
 into files inside the `gathered_data` directory.
 
@@ -33,7 +33,7 @@ I use some regexes to make the job easier too:
 
 For `sm_help`:
  * `^(?!\[[0-9][0-9][0-9]\]).*` to remove all lines that do NOT start with `[###]`, where ### are numbers (e.g. RTD and chat messages noise from `console.log`)
- * `\[[0-9][0-9][0-9]\] ` to remove all `[###] ` prefixes after it, so the diff can focus only in the removal and addition of items, intead of their ordering.
+ * `\[[0-9][0-9][0-9]\] ` to remove all `[###] ` prefixes after it, so the diff can focus only in the removal and addition of items, instead of their ordering.
 
 For `sm plugins`:
  * `^(?! ").*` to remove all lines that do NOT start with ` "` (e.g. RTD and chat messages noise from `console.log`)
