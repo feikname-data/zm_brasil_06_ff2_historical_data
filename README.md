@@ -1,6 +1,6 @@
 ## ZM BRASIL #06 (FF2) - Historical data
   This repository contains historical data of the "ZM BRASIL #06 (FF2)" Team
-Fortress 2 server. 
+Fortress 2 server.
 
   The intention is to do bug reports in case anything goes missing or to simply analyze
 how the server has been changing over time.
@@ -15,13 +15,13 @@ console output and put each one in a different file formatted as `zm_06_ff2_COMM
  * `MONTH` Month of the year, with 2 digits and leading zeroes if necessary.
  * `YEAR` Year number (in [Common Era](https://en.wikipedia.org/wiki/Common_Era)), with 4 digits.
 
-  You may view the data separately by browsing the `gathered_data` directory or 
+  You may view the data separately by browsing the `gathered_data` directory or
 you may browse the [`zm_06_ff2_help_output_for_diff_view.txt` history](https://github.com/feikname-data/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_help_output_for_diff_view.txt)
 and the [`zm_06_ff2_plugins_for_diff_view.txt` history](https://github.com/feikname-data/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_plugins_for_diff_view.txt)
 for a convenient diff view.
 
 ## How is the data updated?
-  The data is updated by me joining the server, typing the `sm`, `sm_help`, and 
+  The data is updated by me joining the server, typing the `sm`, `sm_help`, and
 `sm plugins` commands into the console and then sorting the output of each command
 into files inside the `gathered_data` directory.
 
@@ -37,3 +37,6 @@ For `sm_help`:
 
 For `sm plugins`:
  * `^(?! ").*` to remove all lines that do NOT start with ` "` (e.g. RTD and chat messages noise from `console.log`)
+
+For both:
+ * `^(.*?)$\s+?^(?=.*^\1$)` to remove duplicate entries next to each other (requires sorting first, to ensure it works as intended).
