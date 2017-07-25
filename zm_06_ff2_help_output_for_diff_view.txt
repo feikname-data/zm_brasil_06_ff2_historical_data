@@ -41,8 +41,6 @@ gameme_team_action - No description available
 gameme_tsay - No description available
 gameme_world_action - No description available
 goomba_off - Disable stomp.
-goomba_on - Enable stomp.
-goomba_status - Give the current goomba immunity setting.
 hale - No description available
 hale_classinfo - No description available
 hale_hp - No description available
@@ -59,7 +57,6 @@ halemusic - No description available
 halenew - No description available
 halenext - No description available
 haleresetpoints - No description available
-halevoice - No description available
 listmaps - No description available
 mm - Shows the model manager menu
 motd - No description available
@@ -67,26 +64,22 @@ nextmap - No description available
 sm_advertisements_reload - Reload the advertisements
 sm_bet - No description available
 sm_browse - No description available
-sm_build - Building menu
 sm_buildinghats - No description available
-sm_canteen - Canteen charges menu
 sm_colorize_colors - displays colors available to sm_colorize and sm_colorme
 sm_cookies - sm_cookies <name> [value]
 sm_credits - No description available
 sm_drop - No description available
 sm_dsp - No description available
-sm_effect - Spells and Canteen charges menu
-sm_effects - Spells and Canteen charges menu
 sm_firstperson - Usage: sm_firstperson
 sm_fp - No description available
 sm_gift - No description available
 sm_givecredits - No description available
 sm_help - Displays SourceMod commands and descriptions
 sm_inv - No description available
-sm_inventory - No description available
 sm_irs_kicklist_reload - Reloads the kick list.
 sm_ks - Set your killstreak.
 sm_me - Outputs a 'me' action to chat
+sm_mirror - Toggle Rotational Thirdperson view
 sm_music - No description available
 sm_musicfull - No description available
 sm_musicstop - No description available
@@ -102,10 +95,8 @@ sm_revote - No description available
 sm_rtv - No description available
 sm_searchcmd - Searches SourceMod commands
 sm_settings - No description available
-sm_shop - No description available
-sm_spell - Spells menu
-sm_spells - Spells menu
 sm_store - No description available
+sm_store_custom_credits - No description available
 sm_thirdperson - Usage: sm_thirdperson
 sm_tp - No description available
 sm_trade - No description available
