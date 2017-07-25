@@ -48,7 +48,6 @@ goomba_on - Enable stomp.
 goomba_status - Give the current goomba immunity setting.
 hale - No description available
 hale_boss - Allows players to select their boss
-hale_boss - Allows players to select their boss
 hale_classinfo - No description available
 hale_hp - No description available
 hale_music - No description available
@@ -68,7 +67,6 @@ haletoggle - Allows players to enable/disable being in the boss queue
 halevoice - No description available
 listmaps - No description available
 mm - Shows the model manager menu
-mm - Shows the model manager menu
 motd - No description available
 nextmap - No description available
 sm_advertisements_reload - Reload the advertisements
@@ -87,7 +85,6 @@ sm_explarrowsme - Turn on explosive arrows for yourself.
 sm_firstperson - Usage: sm_firstperson
 sm_footsteps - No description available
 sm_fp - No description available
-sm_gift - No description available
 sm_gift - No description available
 sm_givecredits - No description available
 sm_help - Displays SourceMod commands and descriptions
@@ -117,7 +114,6 @@ sm_resizeresetme - Resets a client's size.
 sm_revote - No description available
 sm_rocketme -  a fun way to suicide
 sm_rtv - No description available
-sm_searchcmd - Searches SourceMod commands
 sm_searchcmd - Searches SourceMod commands
 sm_settings - No description available
 sm_shop - No description available

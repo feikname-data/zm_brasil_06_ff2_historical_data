@@ -78,7 +78,6 @@ sm_dsp - No description available
 sm_effect - Spells and Canteen charges menu
 sm_effects - Spells and Canteen charges menu
 sm_firstperson - Usage: sm_firstperson
-sm_firstperson - Usage: sm_firstperson
 sm_fp - No description available
 sm_gift - No description available
 sm_givecredits - No description available
@@ -98,7 +97,6 @@ sm_offer - No description available
 sm_particles - Toggles a client's projectile particles on/off
 sm_radiooff - No description available
 sm_rerollhat - No description available
-sm_rerollhat - No description available
 sm_resetplayer - No description available
 sm_revote - No description available
 sm_rtv - No description available
@@ -117,7 +115,6 @@ sm_yt - No description available
 sm_yt_full - No description available
 sm_yt_stop - No description available
 sm_yt_to - No description available
-tauntcrits_help - No description available
 tauntcrits_help - No description available
 tauntcrits_info - No description available
 tf2items_disable - No description available

@@ -30,7 +30,6 @@
  "Freak Fortress 2: Boss Selection" (1.10) by RainBolt Dash, Powerlord, SHADoW NiNE TR3S
  "Freak Fortress 2: Boss Toggle" (1.0.1) by frog
  "Freak Fortress 2: Boss Tweaks" (1.0) by frog
- "Freak Fortress 2: Boss Tweaks" (1.0) by frog
  "Freak Fortress 2: CBS's abilitys from VSH" by M7
  "Freak Fortress 2: Completely Stripped Version of Darth's Ability Pack Fix" (1.2) by Darthmule, edit by Deathreus
  "Freak Fortress 2: Damage Tracker" (1.0) by MasterOfTheXP

@@ -68,7 +68,6 @@ mm - Shows the model manager menu
 motd - No description available
 nextmap - No description available
 sm_advertisements_reload - Reload the advertisements
-sm_advertisements_reload - Reload the advertisements
 sm_australium - No description available
 sm_bet - No description available
 sm_browse - No description available
@@ -97,7 +96,6 @@ sm_musicfull - No description available
 sm_musicstop - No description available
 sm_musicto - No description available
 sm_musicyt - No description available
-sm_nominate - No description available
 sm_nominate - No description available
 sm_offer - No description available
 sm_particles - Toggles a client's projectile particles on/off

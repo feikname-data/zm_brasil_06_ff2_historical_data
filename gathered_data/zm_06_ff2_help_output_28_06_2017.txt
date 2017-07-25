@@ -48,7 +48,6 @@ goomba_on - Enable stomp.
 goomba_status - Give the current goomba immunity setting.
 hale - No description available
 hale_boss - Allows players to select their boss
-hale_boss - Allows players to select their boss
 hale_classinfo - No description available
 hale_hp - No description available
 hale_music - No description available
@@ -67,7 +66,6 @@ haleresetpoints - No description available
 haletoggle - Allows players to enable/disable being in the boss queue
 halevoice - No description available
 listmaps - No description available
-mm - Shows the model manager menu
 mm - Shows the model manager menu
 motd - No description available
 nextmap - No description available
@@ -88,7 +86,6 @@ sm_firstperson - Usage: sm_firstperson
 sm_footsteps - No description available
 sm_fp - No description available
 sm_gift - No description available
-sm_gift - No description available
 sm_givecredits - No description available
 sm_help - Displays SourceMod commands and descriptions
 sm_inv - No description available
@@ -108,7 +105,6 @@ sm_radio - No description available
 sm_radiooff - No description available
 sm_rerollhat - No description available
 sm_resetplayer - No description available
-sm_resetplayer - No description available
 sm_resizemyhands - Toggles a client's hand size.
 sm_resizemyhead - Toggles a client's head size.
 sm_resizemytorso - Toggles a client's torso size.
@@ -127,7 +123,6 @@ sm_tp - No description available
 sm_trade - No description available
 sm_vip - Display the vip menu.
 sm_voicefx - No description available
-sm_votemute - sm_votemute <player>
 sm_votemute - sm_votemute <player>
 sm_voteslay - sm_voteslay <player>
 sm_yt - No description available

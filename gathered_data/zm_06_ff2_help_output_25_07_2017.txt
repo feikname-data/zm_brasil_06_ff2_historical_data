@@ -48,7 +48,6 @@ hale_music - No description available
 hale_new - No description available
 hale_next - No description available
 hale_resetpoints - No description available
-hale_resetpoints - No description available
 hale_voice - No description available
 haleboss - Set my boss
 haleclassinfo - No description available
@@ -68,7 +67,6 @@ sm_browse - No description available
 sm_buildinghats - No description available
 sm_colorize_colors - displays colors available to sm_colorize and sm_colorme
 sm_cookies - sm_cookies <name> [value]
-sm_cookies - sm_cookies <name> [value]
 sm_credits - No description available
 sm_drop - No description available
 sm_dsp - No description available
@@ -87,7 +85,6 @@ sm_musicfull - No description available
 sm_musicstop - No description available
 sm_musicto - No description available
 sm_musicyt - No description available
-sm_nominate - No description available
 sm_nominate - No description available
 sm_offer - No description available
 sm_particles - Toggles a client's projectile particles on/off
