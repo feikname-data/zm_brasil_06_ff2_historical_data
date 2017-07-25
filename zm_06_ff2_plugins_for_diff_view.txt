@@ -29,7 +29,6 @@
  "Freak Fortress 2: Boss Selection" (1.10) by RainBolt Dash, Powerlord, SHADoW NiNE TR3S
  "Freak Fortress 2: Boss Toggle" (1.0.1) by frog
  "Freak Fortress 2: Boss Tweaks" (1.0) by frog
- "Freak Fortress 2: Boss Tweaks" (1.0) by frog
  "Freak Fortress 2: CBS's abilitys from VSH" by M7
  "Freak Fortress 2: Completely Stripped Version of Darth's Ability Pack Fix" (1.2) by Darthmule, edit by Deathreus
  "Freak Fortress 2: Damage Tracker" (1.0) by MasterOfTheXP
@@ -137,7 +136,6 @@
  "[TF2] Building Hats" (1.8) by Pelipoika
  "[TF2] Colored Engineer Buildings" (1.1) by Oshizu
  "[TF2] DSP Effects" (1.1) by A.I, Hurp Durp
- "[TF2] Effects" (2.1.2) by avi9526. See source code for more details
  "[TF2] Explosive Arrows" (1.31) by Tak (Chaosxk)
  "[TF2] Fake Item Messages" (1.5.0) by DarthNinja
  "[TF2] Halloween Footprints" (1.0) by Oshizu
