@@ -7,13 +7,13 @@ how the server has been changing over time.
 
 ## Directory structure
   I collect the `sm`, `sm_help` (all pages), and `sm plugins` (all pages) commands
-console output and put each one in a different file formatted as `zm_06_ff2_COMMANDTYPE_DAY_MONTH_YEAR.txt`
-(e.g. `zm_06_ff2_help_output_20_05_2017.txt`) inside the `gathered_data` folder.
+console output and put each one in a different file formatted as `zm_06_ff2_COMMANDTYPE_YEAR_MONTH_DAY.txt`
+(e.g. `zm_06_ff2_help_output_2017_05_20.txt`) inside the `gathered_data` folder.
 
  * `COMMANDTYPE` field may be `plugins`, `help_output`, or `sm_output`.
- * `DAY`: Day of the month with, 2 digits and leading zeroes if necessary.
- * `MONTH` Month of the year, with 2 digits and leading zeroes if necessary.
  * `YEAR` Year number (in [Common Era](https://en.wikipedia.org/wiki/Common_Era)), with 4 digits.
+ * `MONTH` Month of the year, with 2 digits and leading zeroes if necessary.
+ * `DAY`: Day of the month with, 2 digits and leading zeroes if necessary.
 
   You may view the data separately by browsing the `gathered_data` directory or
 you may browse the [`zm_06_ff2_help_output_for_diff_view.txt` history](https://github.com/feikname-data/zm_brasil_06_ff2_historical_data/commits/master/zm_06_ff2_help_output_for_diff_view.txt)
