@@ -120,8 +120,8 @@ tp
 voicemenu
 ```
 
-### `amp`, `amplifier`
-This command is part of [The Amplifier](https://forums.alliedmods.net/showthread.php?p=1179897) plugin.
+### [`amp`, `amplifier`]
+This command is part of the [The Amplifier](https://forums.alliedmods.net/showthread.php?p=1179897) plugin.
 
 It brings up a menu for selecting which building the engineer will use, and it can be either:
  * The tf2 traditional dispenser; or
@@ -134,13 +134,21 @@ awarded for 30 seconds simply by taunting, thus making the dispenser far more us
 Also, the menu will only show if you're currently an engineer, thus, you might
 need to wait your respawn if you just switched classes.
 
-### `amp_help`
+### [`amp_help`]
 This command is part of [The Amplifier](https://forums.alliedmods.net/showthread.php?p=1179897) plugin.
 
-  Displays a pt-br translated text about amp. It is hard to understand and badly
-translated. If you need info, read the [amp, amplifier](#) entry above.
+  Displays a pt-br translated text about what `amp` does. It is hard to understand
+and badly translated. If you need info about the `amp` command, read the [`amp`, `amplifier`] entry above.
 
 The server might output `Unknown command: amp_help` to the console, but it works anyway.
 
-### `em`, `equip`, `equipmodels`, `tf_models`
-TODO
+### [`em`, `equip`, `equipmodels`, `tf_models`]
+This command is part of the [Model Manager](https://forums.alliedmods.net/showthread.php?t=164630) plugin.
+
+It brings up the model selection menu (think of models as alternate skins).
+
+  Only some people have one or more skins available for them currently, so it is
+useless for most players.
+
+Known players bearing at least one model:
+ * The Doge Master (claims to have received one as an award for helping the server)
