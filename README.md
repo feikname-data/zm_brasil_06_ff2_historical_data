@@ -40,3 +40,6 @@ For `sm plugins`:
 
 For both:
  * `^(.*?)$\s+?^(?=.*^\1$)` to remove duplicate entries next to each other (requires sorting first, to ensure it works as intended).
+
+For `commands_info.md`
+ * `^(.*)$` replaced with ` * \1` to make the list
