@@ -4,33 +4,39 @@
 
 **THIS FILE UNDER CONSTRUCTION.**
 
-Index:
+Please note that FF2 is the sucessor of VSH.
+
+Currently explained:
  * [`amp`, `amplifier`]
  * [`amp_help`]
- * [`em`, `equip`, `equipmodels`, `tf_models`]
+ * [`em`, `equip`, `equipmodels`, `mm`, `tf_models`]
 
-Remaining commands to explain:
+To be explained in detail:
+ * [`ff`] - Show friendly fire status
+ * [`ff2`, `hale`] - Freak Fortress 2 general menu
+ * [`ff2_classinfo`, `ff2classinfo`, `hale_classinfo`, `haleclassinfo`] - Display information about your class powers
+ * [`ff2_hp`, `ff2hp`, `hale_hp`, `halehp`] - Show the boss hp to everyone
+ * [`ff2_music`, `ff2music`, `hale_music`, `halemusic`] - Show the boss music options menu
+ * [`ff2_new`, `ff2new`, `hale_new`, `halenew`] - Display the FF2 plugin changelog and check for updates
+ * [`ff2_next`, `ff2next`, `hale_next`, `halenext`] - See who's going to be the next hale
+ * [`ff2_resetpoints`, `ff2resetpoints`, `hale_resetpoints`, `haleresetpoints`] - Reset your queue points
+ * [`ff2_voice`, `ff2voice`, `hale_voice`, `halevoice`] - Toggle boss voice sounds
+ * [`ff2_boss`, `ff2boss`, `hale_boss`, `haleboss`] - Set your boss (VIP only)
+ * [`ff2dmg`, `haledmg`] - Display the top damage scoreboard of each round in the left superior corner
+ * [`ff2toggle`, `haletoggle`] - Toggle if you want to be hale or not (may not work if there are few players or many people with this options enabeld too)
+ * [`fp`, `sm_fp`, `sm_firstperson`] - Set your view to first person
+ * [`tp`, `sm_tp`, `sm_thirdperson`] - Set your view to third person
+ * [`goomba_off`] - Disable stomps for yourself. As of July 2017, due to a bug report of mine, it can no longer be exploited
+ * [`listmaps`] - Output the map cycle to the console
+ * [`motd`] - Opens the *m*essage *o*f *t*he *d*ay
+ * [`nextmap`] - Shows the map that will be loaded after the round ends
+ * [`sm_bet`] - Allows you to bet credits on either red or blu
+ * [`sm_browse`] - Opens the Steam built-in [CEF] browser inside the motd page to the chosen URL
+ * [`sm_buildinghats`] - Toggles if your engineer constructions will have hats. I did not test if it works with rtd and amp
+ *
+
+Commands listed in the help text that **DO NOT** work:
 ```text
-ff
-ff2
-ff2_classinfo
-ff2_hp
-ff2_music
-ff2_new
-ff2_next
-ff2_resetpoints
-ff2_voice
-ff2boss
-ff2classinfo
-ff2dmg
-ff2hp
-ff2music
-ff2new
-ff2next
-ff2resetpoints
-ff2toggle
-ff2voice
-fp - Usage: sm_firstperson
 gameme_browse
 gameme_csay
 gameme_hint
@@ -45,38 +51,16 @@ gameme_swap
 gameme_team_action
 gameme_tsay
 gameme_world_action
-goomba_off
-hale
-hale_classinfo
-hale_hp
-hale_music
-hale_new
-hale_next
-hale_resetpoints
-hale_voice
-haleboss
-haleclassinfo
-haledmg
-halehp
-halemusic
-halenew
-halenext
-haleresetpoints
-listmaps
-mm
-motd
-nextmap
 sm_advertisements_reload
-sm_bet
-sm_browse
-sm_buildinghats
+```
+
+Missing commands to explain at least basically:
+```text
 sm_colorize_colors
 sm_cookies
 sm_credits
 sm_drop
 sm_dsp
-sm_firstperson
-sm_fp
 sm_gift
 sm_givecredits
 sm_help
@@ -98,12 +82,10 @@ sm_rerollhat
 sm_resetplayer
 sm_revote
 sm_rtv
-sm_searchcmd - Searches SourceMod commands
+sm_searchcmd
 sm_settings
 sm_store
 sm_store_custom_credits
-sm_thirdperson
-sm_tp
 sm_trade
 sm_vip
 sm_voicefx
@@ -116,7 +98,6 @@ tauntcrits_info
 tf2items_disable
 tf2items_enable
 timeleft
-tp
 voicemenu
 ```
 
@@ -142,7 +123,7 @@ and badly translated. If you need info about the `amp` command, read the [`amp`,
 
 The server might output `Unknown command: amp_help` to the console, but it works anyway.
 
-### [`em`, `equip`, `equipmodels`, `tf_models`]
+### [`em`, `equip`, `mm`, `equipmodels`, `tf_models`]
 This command is part of the [Model Manager](https://forums.alliedmods.net/showthread.php?t=164630) plugin.
 
 It brings up the model selection menu (think of models as alternate skins).
