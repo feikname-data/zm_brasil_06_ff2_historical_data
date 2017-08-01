@@ -23,16 +23,16 @@ To be explained in detail:
  * [`ff2_voice`, `ff2voice`, `hale_voice`, `halevoice`] - Toggle boss voice sounds
  * [`ff2_boss`, `ff2boss`, `hale_boss`, `haleboss`] - Set your boss (VIP only)
  * [`ff2dmg`, `haledmg`] - Display the top damage scoreboard of each round in the left superior corner
- * [`ff2toggle`, `haletoggle`] - Toggle if you want to be hale or not (may not work if there are few players or many people with this options enabeld too)
+ * [`ff2toggle`, `haletoggle`] - Toggle if you want to be hale or not (may not work if there are few players or many people with this options enabled too)
  * [`fp`, `sm_fp`, `sm_firstperson`] - Set your view to first person
  * [`tp`, `sm_tp`, `sm_thirdperson`] - Set your view to third person
  * [`goomba_off`] - Disable stomps for yourself. As of July 2017, due to a bug report of mine, it can no longer be exploited
  * [`listmaps`] - Output the map cycle to the console
- * [`motd`] - Opens the *m*essage *o*f *t*he *d*ay
+ * [`motd`] - Opens the [**m**essage **o**f **t**he **d**ay](https://wiki.teamfortress.com/w/index.php?title=Dedicated_server_configuration&redirect=no#MOTD)
  * [`nextmap`] - Shows the map that will be loaded after the round ends
- * [`sm_bet`] - Allows you to bet credits on either red or blu
- * [`sm_browse`] - Opens the Steam built-in [CEF] browser inside the motd page to the chosen URL
- * [`sm_buildinghats`] - Toggles if your engineer constructions will have hats. I did not test if it works with rtd and amp
+ * [`sm_bet`] - Allows you to bet yours credits on either red or blu
+ * [`sm_browse`] - Opens the chosen URL inside the Team Fortress 2 [motd page](https://wiki.teamfortress.com/w/index.php?title=Dedicated_server_configuration&redirect=no#MOTD), which is powered by [CEF](https://bitbucket.org/chromiumembedded/cef)
+ * [`sm_buildinghats`] - Toggles if your engineer constructions will have hats. I did not test if it works with rtd and amp yet
  *
 
 Commands listed in the help text that **DO NOT** work:
