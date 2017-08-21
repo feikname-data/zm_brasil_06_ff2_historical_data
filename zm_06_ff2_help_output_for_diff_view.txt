@@ -57,6 +57,7 @@ halemusic - No description available
 halenew - No description available
 halenext - No description available
 haleresetpoints - No description available
+halevoice - No description available
 listmaps - No description available
 mm - Shows the model manager menu
 motd - No description available
@@ -68,7 +69,6 @@ sm_buildinghats - No description available
 sm_colorize_colors - displays colors available to sm_colorize and sm_colorme
 sm_cookies - sm_cookies <name> [value]
 sm_credits - No description available
-sm_drop - No description available
 sm_dsp - No description available
 sm_firstperson - Usage: sm_firstperson
 sm_fp - No description available
@@ -76,6 +76,7 @@ sm_gift - No description available
 sm_givecredits - No description available
 sm_help - Displays SourceMod commands and descriptions
 sm_inv - No description available
+sm_inventory - No description available
 sm_irs_kicklist_reload - Reloads the kick list.
 sm_ks - Set your killstreak.
 sm_me - Outputs a 'me' action to chat
@@ -95,6 +96,7 @@ sm_revote - No description available
 sm_rtv - No description available
 sm_searchcmd - Searches SourceMod commands
 sm_settings - No description available
+sm_shop - No description available
 sm_store - No description available
 sm_store_custom_credits - No description available
 sm_thirdperson - Usage: sm_thirdperson
@@ -105,7 +107,6 @@ sm_voicefx - No description available
 sm_yt - No description available
 sm_yt_full - No description available
 sm_yt_stop - No description available
-sm_yt_to - No description available
 tauntcrits_help - No description available
 tauntcrits_info - No description available
 tf2items_disable - No description available
