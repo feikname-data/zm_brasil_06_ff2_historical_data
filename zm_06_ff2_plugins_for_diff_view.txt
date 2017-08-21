@@ -86,6 +86,7 @@
  "High Ping Kicker - Lite Edition" (1.0.0.1) by Liam
  "Immunity Reserve Slots [CONNECT]" (2.0.7) by Jamster
  "In-game vip Menu" (0.9) by chundo
+ "InstantUber" (1.0.0) by Lord Max & Antithasys
  "Killstreak" (1.8) by Dr_Knuckles / Kredit
  "Loja ZMBRASIL - TRADE" (1.0) by ZMBR SOUL
  "Loja ZMBRASIL" (1.1) by ZMBR SOUL
@@ -128,9 +129,6 @@
  "Updater" (1.2.2) by GoD-Tony
  "Vote Mute/Vote Silence" (1.0.105) by <eVa>Dog/AlliedModders LLC
  "[ANY] Automatic Steam Update" (1.9.1) by Dr. McKay
- "[ANY] Gifts" (2.3) by Zephyrus
- "[ANY] Zephyrus Gift Grab - Test Plugin" (1.0) by Zephyrus
- "[Gifts] Test" (1.0) by FrozDark (HLModders LLC)
  "[Source 2013] Custom Chat Colors" (3.1.0) by Dr. McKay
  "[TF2Items] Manager" (1.4.1) by Damizean & Asherkin
  "[TF2] Building Hats" (1.8) by Pelipoika
